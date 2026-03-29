@@ -10,7 +10,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- LINK URL DAN CORRECT KEY
 local LINK_URL = "https://link-center.net/3757213/4TEAwxbFdNls"
-local CORRECT_KEY = "thankyouforscript"
+local CORRECT_KEY = "thankyouforscripttysm"
 local keyVerified = false
 
 -- AUTO COPY LINK
