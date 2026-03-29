@@ -1,7 +1,7 @@
 -- ⚽ LUA HUB ⚽ | 4 FITUR PERFECT | 100% WORKING
 -- Infinite Stamina | Boost Speed | Fly | Infinite Jump
 -- BY LUA HUB OR ahza_12310
--- KEY: thankyouforscript
+-- KEY: thankyouforscripttysm
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
