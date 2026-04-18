@@ -9,7 +9,7 @@ local UserInputService = game:GetService("UserInputService")
 local LocalPlayer = Players.LocalPlayer
 
 -- LINK URL DAN CORRECT KEY
-local LINK_URL = "https://link-center.net/3757213/4TEAwxbFdNls"
+local LINK_URL = "https://link-target.net/3757213/HOL1zomgYUPW"
 local CORRECT_KEY = "thankyouforscripttysm"
 local keyVerified = false
 
